@@ -7,3 +7,6 @@ tool that would help medical practitioners make more accurate diagnoses of heart
 point, it employs a simple algorithm that can detect the systole and diastole of a heart sound, but a more complex
 heart murmur classification algorithm could be implemented in the future.
 
+
+Stored records in the Room database can be retrieved by their ID.
+Continuous integration builds the project on pushes and pull requests to both the `main` and `work` branches.

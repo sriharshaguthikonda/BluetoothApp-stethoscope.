@@ -19,7 +19,7 @@ public interface EntityDao {
     @Query("SELECT * FROM DataEntity")
     LiveData<List<DataEntity>> getAllDataEntities();
 
-    @Query("SELECT * FROM DataEntity WHERE entity_id * :uid")
+    @Query("SELECT * FROM DataEntity WHERE entity_id = :uid")
     LiveData<DataEntity> getDataEntityById(String uid);
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
