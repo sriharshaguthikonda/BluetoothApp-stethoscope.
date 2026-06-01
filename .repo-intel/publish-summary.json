@@ -1,0 +1,32 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/BluetoothApp-stethoscope.",
+    "generatedAt":  "2026-06-01T06:04:12.1196433Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  3,
+    "totalBytes":  446214,
+    "maps":  [
+                 {
+                     "name":  "ehwvrk-codex/find-app-functionality-in-code",
+                     "ref":  "refs/remotes/origin/ehwvrk-codex/find-app-functionality-in-code",
+                     "commit":  "41513d65606fd81e1d8e5e57a0be05416ef6a0d5",
+                     "path":  ".repo-intel/branches/remote-origin/ehwvrk-codex-find-app-functionality-in-code__41513d65606f/repo-map-full.json",
+                     "bytes":  145687
+                 },
+                 {
+                     "name":  "master",
+                     "ref":  "refs/remotes/origin/master",
+                     "commit":  "e489eea37b283a511318fd89374a4ec7d18587b4",
+                     "path":  ".repo-intel/branches/remote-origin/master__e489eea37b28/repo-map-full.json",
+                     "bytes":  145470
+                 },
+                 {
+                     "name":  "master",
+                     "ref":  "refs/remotes/upstream/master",
+                     "commit":  "f2ac3c009bea874b0e207a3cf551a58f3232739d",
+                     "path":  ".repo-intel/branches/remote-upstream/master__f2ac3c009bea/repo-map-full.json",
+                     "bytes":  144815
+                 }
+             ]
+}
